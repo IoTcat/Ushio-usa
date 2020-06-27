@@ -1,0 +1,6 @@
+[submodule "www/iotcat.me"]
+	path = www/iotcat.me
+	url = git@github.com:IoTcat/iotcat.me-homepage.git
+[submodule "www/acg.watch"]
+	path = www/acg.watch
+	url = git@github.com:IoTcat/acg.watch
