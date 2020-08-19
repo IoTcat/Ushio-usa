@@ -4,3 +4,6 @@
 [submodule "www/acg.watch"]
 	path = www/acg.watch
 	url = git@github.com:IoTcat/acg.watch
+[submodule "www/ushio.cool"]
+	path = www/ushio.cool
+	url = git@github.com:iotcat/ushio-homepage
