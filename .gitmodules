@@ -7,3 +7,6 @@
 [submodule "www/redrange"]
 	path = www/redrange
 	url = git@github.com:IoTcat/redrange.me.git
+[submodule "www/img"]
+	path = www/img
+	url = git@github.com:IoTcat/ushio-img.git
