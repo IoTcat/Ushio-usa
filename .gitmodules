@@ -10,3 +10,6 @@
 [submodule "www/img"]
 	path = www/img
 	url = git@github.com:IoTcat/ushio-img.git
+[submodule "www/v2ray"]
+	path = www/v2ray
+	url = git@github.com:IoTcat/ushio-net.git
