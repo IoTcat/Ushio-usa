@@ -19,3 +19,6 @@
 [submodule "www/blog"]
 	path = www/blog
 	url = git@github.com:iotcat/eee.dog-public
+[submodule "www/birthday"]
+	path = www/birthday
+	url = git@github.com:IoTcat/birthday.git
